@@ -1,6 +1,6 @@
 # Códigos Java:
 
-💻 Este repositório possui os mais variados problemas propóstos na Faculdade aonde estudo antualmente e de alguns sites, sendo estes resolvidos com o uso da Linguagem de Programação Java  com a IDE Netbeans de acordo com o meu grau de conhecimento adquirido a cada semestre.
+💻 Este repositório possui os mais variados problemas propóstos na Faculdade aonde estudo atualmente e de alguns sites, sendo estes resolvidos com o uso da Linguagem de Programação Java  com a IDE Netbeans de acordo com o meu grau de conhecimento adquirido a cada semestre.
 
 💻 Portanto este repositório serve para auxíliar outros que como eu possui alguma dificuldade na resolução de alguns problemas ou queira ver outros problemas resolvidos com o uso desta Linguagem de Programação.
 
